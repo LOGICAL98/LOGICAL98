@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LOGICAL98
 - 👀 I’m interested in software developing
-- 🌱 I’m currently learning swift 
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on applications that can be fun to use 
 - 📫 How to reach me message me here
 
